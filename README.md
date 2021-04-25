@@ -1,4 +1,4 @@
-### Hey 👋 , je suis Guillaume, développeur Web la recherche d'un job!
+# Hey 👋 , je suis Guillaume, développeur Web la recherche d'un job!
 
 ## Bienvenue sur mon GitHub !
 Tu trouveras ici mes projets perso ! Je travaille principalement avec React.js et Node.js mais j'aime bien faire des tests et découvrir de nouvelles technos.
@@ -8,7 +8,7 @@ Issue d'une reconversion professionnelle chez O'Clock, j'ai vu comme langage HTM
  - 🌱 En ce moment j'apprends <img height="40" alt="NextJs" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uKcXMiwIIUy4xkgtEto6kAAAAA%26pid%3DApi&f=1"> en association avec <img height="40" alt="Strapi" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.rvkRBqaa-F_A6Sb-arCPrwHaB9%26pid%3DApi&f=1">.
  - ⌨️ Je travaille sur un site vitrine pour un artisan qui veut un CMS pour ajouter lui même ses réalisations.
 
- ### Mes langages et outils
+ ## Mes langages et outils
 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -19,7 +19,7 @@ Issue d'une reconversion professionnelle chez O'Clock, j'ai vu comme langage HTM
 <code><img height="40" alt="Symfony" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Ptz68bCSB09ryjRBdn4PZQHaEd%26pid%3DApi&f=1"></code>
 
 
- ### A propos de moi 
+## A propos de moi 
 En dehors du développement j'aime les jeux videos et le DIY.
 
 ### Pour me contacter 
