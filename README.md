@@ -5,7 +5,7 @@ Tu trouveras ici mes projets perso ! Je travaille principalement avec React.js e
 Issue d'une reconversion professionnelle chez O'Clock, j'ai vu comme langage HTML, CSS, JS, PHP et j'ai fait une spécialisation d'un mois avec Symfony. 
 
 ## What's going on
- - 🌱 En ce moment j'apprends <img height="40" alt="NextJs" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uKcXMiwIIUy4xkgtEto6kAAAAA%26pid%3DApi&f=1"> en association avec <img height="40" alt="Strapi" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.rvkRBqaa-F_A6Sb-arCPrwHaB9%26pid%3DApi&f=1">.
+ - 🌱 En ce moment j'apprends <img height="40" alt="NextJs" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uKcXMiwIIUy4xkgtEto6kAAAAA%26pid%3DApi&f=1"> en association avec <img height="40" alt="Strapi" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AvHasCky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pc5m0si91f57pfgtwc9i.png">.
  - ⌨️ Je travaille sur un site vitrine pour un artisan qui veut un CMS pour ajouter lui même ses réalisations.
 
  ## Mes langages et outils
